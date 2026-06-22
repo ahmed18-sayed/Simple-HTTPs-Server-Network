@@ -51,7 +51,7 @@ End-to-end communication check confirming successful ICMP echo requests (Ping) b
 ## 🚀 How to Run the Simulation
 
 1. Download and install **Cisco Packet Tracer** (v8.0 or higher recommended).
-2. Clone this repository or download the `Project1.pkt` file.
-3. Open `Project1.pkt` inside Packet Tracer.
+2. Clone this repository or download the `Project(Network).pkt` file.
+3. Open `Project(Network).pkt` inside Packet Tracer.
 4. Go to any PC, open the **Web Browser** application, type the configured domain name, and verify the secure HTTPS connection.
 5. Open the command prompt on any PC and try pinging other devices to verify cross-network connectivity.
