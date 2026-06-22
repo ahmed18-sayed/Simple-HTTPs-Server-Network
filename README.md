@@ -1,2 +1,17 @@
-# Simple-HTTPs-Server-Network
-A simple networking project that connects three departments for communication between (Sales, HR, IT), and all three can be accessed via an HTTPS SERVER website.
+# Simple HTTPs Server Network (Cisco Packet Tracer)
+
+## 📝 وصف المشروع
+مشروع شبكة محلية (LAN) مبسط ومصمم على برنامج **Cisco Packet Tracer**. الهدف من المشروع هو ربط أجهزة المستخدمين بسيرفر مركزي يقدم خدمات الويب وتوزيع العناوين تلقائياً.
+
+## 🛠️ الخدمات والبروتوكولات المستخدمة
+* **HTTPs / HTTP:** لتشغيل واستضافة موقع ويب آمن وتصفحه من الأجهزة.
+* **DNS (Domain Name System):** لربط اسم النطاق (Domain Name) بالـ IP الخاص بالسيرفر.
+* **DHCP:** لتوزيع الـ IP Addresses على أجهزة الـ PCs تلقائياً دون تدخل يدوي.
+
+## 📐 مخطط الشبكة (Topology)
+![Network Topology](topology.png)
+
+## 🚀 كيف تشغل المشروع؟
+1. قم بتحميل وتثبيت برنامج **Cisco Packet Tracer**.
+2. قم بتحميل ملف `Project1.pkt` (أو الاسم الذي اخترته) من هذا المستودع.
+3. افتح الملف وافتح متصفح الويب (Web Browser) من أي جهاز PC واكتب اسم الموقع لرؤية الخدمة تعمل.
